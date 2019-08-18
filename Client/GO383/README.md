@@ -7,18 +7,7 @@ GO383 is the Software Solution for Restaurants with features such as Employee Ma
 **Authors:**  *WalWalWalides*
 ------
 
-
-Fast and accurate order management
-
-The order manager module enables you to produce only what is on order, prioritize sales and production orders for production line control, and shorten response time to production or order changes. Innova Order Manager handles picking items for orders, ready to use out of the box.
-Manage orders at every step
-
-The Innova Order Manager module manages orders at every step of the production process, from purchase orders to sales orders.
-
-Fast and accurate order fulfillment is a critical part of the logistics process.
-
-The Order Manager enhances the last link in the supply chain to ensure complete support for complex ordering, packaging and palletizing demands.
-
+GO383 enables you to produce only what is on order, prioritize sales and production orders for production line control, and shorten response time to production. 
 
 
 
@@ -28,12 +17,16 @@ Principal Software Benefits:
       - Ensure production line control and prioritize sales & production orders.
       - Review and archive customer details. 
       - Handling all business operations from a single place.
+      - Manage orders at every step.
+      - Fast and accurate order management.
       
-      
+### Menu     
 ![](Img/GO383_2.png)
 
+### Order Online System
 ![](Img/GO383_3.png)
 
+### Online Voting System
 ![](Img/GO383_4.png)
       
 
