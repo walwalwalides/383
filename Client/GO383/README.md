@@ -7,7 +7,7 @@
 **Authors:**  *WalWalWalides*
 ------
 
-`GO383` enables you to Produce only what is on order, prioritize asales and Production orders for Production line control, and shorten Response time to Production. 
+`GO383` enables you to Produce only what is on order, prioritize a sales and Production orders for Production line control, and shorten Response time to Production. 
 
 
 
