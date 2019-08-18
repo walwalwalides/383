@@ -33,14 +33,13 @@ Principal Software Benefits:
 
       - Orders for Tables and seats, as well as menus
 
-      - Order by radio to send directly to the kitchen Splitting bills
+      - Order by radio to send directly to the Kitchen Splitting Bills
 
-      -  Table plan with real-time status information Create customer information and call it up at any time.
+      -  Table Plan with real-time Status Information Create customer Information and call it up at any Time.
 
-      - Overview of all active orders with status information
+      - Overview of all active orders with status Information
 
-      - Automated notification of finished meals to service personnel
-    Processing.
+      - Automated notification of finished meals to service Personnel Processing.
     
     
 
