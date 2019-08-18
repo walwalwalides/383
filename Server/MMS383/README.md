@@ -29,7 +29,7 @@ Principal Software Benefits:
 ![](Img/MMS383_2.png)     
 
 
- ### Menu
+ ### Select, Insert, Update, Delete Employees
 ![](Img/MMS383_3.png)
 
 
