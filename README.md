@@ -63,10 +63,10 @@ Principal Software Benefits:
 
 ## To install script on Windows:
 
-### Install Cmake 
-download link : https://github.com/Kitware/CMake/releases/download/v3.14.1/cmake-3.14.1.zip
+### Install Client 
+download link : https://github.com/walwalwalides/383/releases/download/383/S383_Client.7z
 
-### Install Dblib
+### Install Server
 download link : https://pypi.python.org/simple/dlib/
 
 
