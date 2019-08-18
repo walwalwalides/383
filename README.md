@@ -18,27 +18,25 @@ Principal Software Benefits:
 
       - Efficient project and resource planning, master plans.
 
-      Strong resource management and capacity planning.
+      - Strong resource management and capacity planning.
 
-      A clear overview of resource availability in real time.
+      - A clear overview of resource availability in real time.
 
-      Easy-to-use tools for resource needs and forecasting.
+      - Easy-to-use tools for resource needs and forecasting.
 
-     A clear understanding of who has achieved what and how much it costs.
+      - A clear understanding of who has achieved what and how much it costs.
 
-     Mobile order entry at the table
+      - Mobile order entry at the table
 
-      Orders for tables and seats, as well as menus
+      - Orders for tables and seats, as well as menus
 
-     Order by radio to send directly to the kitchen
+      - Order by radio to send directly to the kitchen Splitting bills
 
-    Splitting bills
+      -  Table plan with real-time status information Create customer information and call it up at any time.
 
-        Table plan with real-time status information Create customer information and call it up at any time.
+      - Overview of all active orders with status information
 
-      Overview of all active orders with status information
-
-    Automated notification of finished meals to service personnel
+      - Automated notification of finished meals to service personnel
     Processing.
     
     
