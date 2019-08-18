@@ -46,18 +46,17 @@ Principal Software Benefits:
 
 ## Contains
 
-| Module | Server Side | 
-| --- | --- |
-|[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)|Database Management System|
-
-------
-
 | Module | Client Side | 
 | --- | --- |
 |[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)|Employees Task Management       |
 |[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Customer Order Management  |
 |[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Task Live View             |
 
+------
+
+| Module | Server Side | 
+| --- | --- |
+|[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)|Database Management System|
 
 ------
 
@@ -67,6 +66,6 @@ Principal Software Benefits:
 download link : https://github.com/walwalwalides/383/releases/download/383/S383_Client.7z
 
 ### Install Server
-download link : https://pypi.python.org/simple/dlib/
+download link : https://github.com/walwalwalides/383/releases/download/383/S383_Server.7z
 
 
