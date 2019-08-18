@@ -1,6 +1,6 @@
 # 383
 383 is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
-![](Img/383_1.png)
+![](Img/383_2.png)
 
 
 **Authors:**  *WalWalWalides*
