@@ -47,11 +47,11 @@ Principal Software Benefits:
 
 ## Contains
 
-| File | Client Side | 
+| Module | Client Side | 
 | --- | --- |
 |[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)| Use a Set to Collect Colors From a ListBoxColor|
 
-| File | Server Side | 
+| Module | Server Side | 
 | --- | --- |
 |[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)| Convert HEX Color To HTML Color Code|
 |[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Convert HEX Color To HTML Color Code|
