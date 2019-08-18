@@ -7,7 +7,7 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The Software offers a new Way for better Collaboration, Communication and Identification. That means granting increased Productivity - that promises more and better Work in less Time.
+The Software offers a new Way for better Collaboration, Communication and Identification. That means granting increased Productivity - That promises more and better Work in less Time.
 
 `383` simplifies service Planning and Organization, enables optimal Staffing, improves service Quality, simplifies Documentation, and ultimately increases the Security of every Transaction.
 
