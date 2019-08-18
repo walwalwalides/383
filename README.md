@@ -13,9 +13,9 @@ This client-server model describes a way to distribute tasks and services within
 
 Principal Software Benefits:
 
-      Flexible and powerful resource cost planning and tracking.
+      - Flexible and powerful resource cost planning and tracking.
 
-      Efficient project and resource planning, master plans.
+      - Efficient project and resource planning, master plans.
 
       Strong resource management and capacity planning.
 
