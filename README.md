@@ -47,14 +47,15 @@ Principal Software Benefits:
 
 ## Contains
 
-| File | Contents | 
+| File | Client Side | 
 | --- | --- |
-| .gitignore | Git ignores the files in this file |
-|[MMS383](https://github.com/walwalwalides/383/tree/master/Server/MMS383)| Use a Set to Collect Colors From a ListBoxColor|
+|[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)| Use a Set to Collect Colors From a ListBoxColor|
 
-|[383](https://github.com/walwalwalides/383/tree/master/Client/383)| Convert HEX Color To HTML Color Code|
-|[GO383](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Convert HEX Color To HTML Color Code|
-|[VT383](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Convert HEX Color To HTML Color Code|
+| File | Server Side | 
+| --- | --- |
+|[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)| Convert HEX Color To HTML Color Code|
+|[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Convert HEX Color To HTML Color Code|
+|[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Convert HEX Color To HTML Color Code|
 
 
 
