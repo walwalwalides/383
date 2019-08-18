@@ -48,5 +48,3 @@ Principal Software Benefits:
 
 ------
 
-![](Img/383_3.png)
-
