@@ -29,6 +29,13 @@ Principal Software Benefits:
       - Review and archive customer details. 
       - Handling all business operations from a single place.
       
+      
+![](Img/GO383_2.png)
+
+![](Img/GO383_3.png)
+
+![](Img/GO383_4.png)
+      
 
     
 
