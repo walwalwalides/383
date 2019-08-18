@@ -8,6 +8,7 @@
 ------
 
 The software offers a new Way for better Collaboration, Communication and Identification. That means granting increased Productivity - that promises more and better Work in less Time.
+
 `383` simplifies service Planning and Organization, enables optimal Staffing, improves service Quality, simplifies Documentation, and ultimately increases the Security of every Transaction.
 
 `383` is a Client-Server System (Teminal Server), a standard concept for the distribution of tasks within a Network.
