@@ -64,9 +64,9 @@ Principal Software Benefits:
 ## To Install the Software:
 
 ### Install Client 
-download link : https://github.com/walwalwalides/383/releases/download/383/S383_Client.7z
+download link : https://github.com/walwalwalides/383/releases/download/383_Client/S383_Client.7z
 
 ### Install Server
-download link : https://github.com/walwalwalides/383/releases/download/383/S383_Server.7z
+download link : https://github.com/walwalwalides/383/releases/download/383_Server/S383_Server.7z
 
 
