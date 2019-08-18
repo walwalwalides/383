@@ -1,7 +1,7 @@
 # MMS383
 MMS383 is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
 
-![](MMS383_1.png)
+![](Img\MMS383_1.png)
 
 
 **Authors:**  *WalWalWalides*
