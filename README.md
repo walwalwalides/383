@@ -2,7 +2,8 @@
 383 is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
 
 
-
+**Authors:**  *WalWalWalides*
+------
 
 The software offers a new way for better collaboration, communication and identification. That means granting increased productivity - that promises more and better work in less time.
 383 simplifies service planning and organization, enables optimal staffing, improves service quality, simplifies documentation, and ultimately increases the security of every transaction.
@@ -39,4 +40,18 @@ Principal Software Benefits:
 
     Automated notification of finished meals to service personnel
     Processing.
+    
+    
+
+
+## Contains
+
+| File | Contents | 
+| --- | --- |
+| .gitignore | Git ignores the files in this file |
+|[Color_SetOfColors](https://github.com/walwalwalides/Delphi-Collection-Color/tree/master/Color_SetOfColors)| Use a Set to Collect Colors From a ListBoxColor|
+|[Color_clConverter](https://github.com/walwalwalides/Delphi-Collection-Color/tree/master/Color_clConverter)| Convert HEX Color To HTML Color Code|
+| README.md | The readme for this project|
+
+------
 
