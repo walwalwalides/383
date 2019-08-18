@@ -25,4 +25,11 @@ Principal Software Benefits:
     
 
 ------
+### View Tasks (Live Mode)
+
+![](Img/VT383_2.png)
+
+### Setting Connection
+![](Img/VT383_3.png)
+
 
