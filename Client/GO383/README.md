@@ -25,6 +25,8 @@ Principal Software Benefits:
 
       - Match sales orders directly to customer orders.
       - Ensure production line control and prioritize sales & production orders.
+      - review and archive customer details. 
+      - handling all business operations from a single place.
       
 
     
