@@ -60,6 +60,15 @@ Principal Software Benefits:
 |[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Task Live View             |
 
 
-
 ------
+
+## To install script on Windows:
+
+### Install Cmake 
+download link : https://github.com/Kitware/CMake/releases/download/v3.14.1/cmake-3.14.1.zip
+
+### Install Dblib
+Download dlib ‘.wheel’ file as ur system requirnment (use link bellow)
+download link : https://pypi.python.org/simple/dlib/
+
 
