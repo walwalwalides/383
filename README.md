@@ -47,13 +47,13 @@ Principal Software Benefits:
 
 ## Contains
 
-| Module | Client Side | 
+| Module | Server Side | 
 | --- | --- |
 |[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)|Database Management System|
 
 ------
 
-| Module | Server Side | 
+| Module | Client Side | 
 | --- | --- |
 |[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)|Employees Task Management       |
 |[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Customer Order Management  |
