@@ -29,12 +29,12 @@ Principal Software Benefits:
 ![](Img/MMS383_2.png)     
 
 
- ### Select, Insert, Update, Delete Employees
+ ### Select, Insert, Update, Delete Employes
 ![](Img/MMS383_3.png)
 
 
 
- ### Menu
+ ### Department
 ![](Img/MMS383_4.png)
 
 
