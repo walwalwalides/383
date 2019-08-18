@@ -17,21 +17,21 @@ This Client-Server model describes a way to distribute Tasks and Services within
 
 Principal Software Benefits:
 
-      - Flexible and powerful resource cost planning and tracking.
+      - Flexible and Powerful resource cost planning and Tracking.
 
-      - Efficient project and resource planning, master plans.
+      - Efficient Project and resource Planning, master plans.
 
-      - Strong resource management and capacity planning.
+      - Strong resource Management and capacity Planning.
 
-      - A clear overview of resource availability in real time.
+      - A clear overview of resource availability in real Time.
 
-      - Easy-to-use tools for resource needs and forecasting.
+      - Easy-to-use Tools for resource needs and forecasting.
 
-      - A clear understanding of who has achieved what and how much it costs.
+      - A clear understanding of who has achieved what and how much it Costs.
 
-      - Mobile order entry at the table
+      - Mobile order entry at the Table
 
-      - Orders for tables and seats, as well as menus
+      - Orders for Tables and seats, as well as menus
 
       - Order by radio to send directly to the kitchen Splitting bills
 
