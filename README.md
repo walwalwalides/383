@@ -50,9 +50,13 @@ Principal Software Benefits:
 | File | Contents | 
 | --- | --- |
 | .gitignore | Git ignores the files in this file |
-|[Color_SetOfColors](https://github.com/walwalwalides/Delphi-Collection-Color/tree/master/Color_SetOfColors)| Use a Set to Collect Colors From a ListBoxColor|
-|[Color_clConverter](https://github.com/walwalwalides/Delphi-Collection-Color/tree/master/Color_clConverter)| Convert HEX Color To HTML Color Code|
-| README.md | The readme for this project|
+|[MMS383](https://github.com/walwalwalides/383/tree/master/Server/MMS383)| Use a Set to Collect Colors From a ListBoxColor|
+
+|[383](https://github.com/walwalwalides/383/tree/master/Client/383)| Convert HEX Color To HTML Color Code|
+|[GO383](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Convert HEX Color To HTML Color Code|
+|[VT383](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Convert HEX Color To HTML Color Code|
+
+
 
 ------
 
