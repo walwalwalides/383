@@ -1,18 +1,18 @@
 # 383
 ![](383.png)
 
-383 is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
+383 is a complete Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
 
 
 **Authors:**  *WalWalWalides*
 ------
 
-The software offers a new way for better collaboration, communication and identification. That means granting increased productivity - that promises more and better work in less time.
-383 simplifies service planning and organization, enables optimal staffing, improves service quality, simplifies documentation, and ultimately increases the security of every transaction.
+The software offers a new Way for better Collaboration, Communication and Identification. That means granting increased productivity - that promises more and better Work in less Time.
+383 simplifies service Planning and Organization, enables optimal staffing, improves service Quality, simplifies Documentation, and ultimately increases the Security of every Transaction.
 
-383 is a client-server system (Teminal Server), a standard concept for the distribution of tasks within a network.
-The system consists mainly of two parts, a server and a client component, which run on different computers.
-This client-server model describes a way to distribute tasks and services within a network.
+383 is a Client-Server System (Teminal Server), a standard concept for the distribution of tasks within a network.
+The system consists mainly of two parts, a Server and a Client Module, which run on different Computers.
+This Client-Server model describes a way to distribute Tasks and services within a network.
 
 
 Principal Software Benefits:
@@ -49,13 +49,13 @@ Principal Software Benefits:
 
 | Module | Client Side | 
 | --- | --- |
-|[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)| Use a Set to Collect Colors From a ListBoxColor|
+|[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)|Database Management System|
 
 | Module | Server Side | 
 | --- | --- |
-|[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)| Convert HEX Color To HTML Color Code|
-|[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Convert HEX Color To HTML Color Code|
-|[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Task Client Live Review|
+|[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)| Employees Task Management|
+|[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Customer Order Management|
+|[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Task Live View|
 
 
 
