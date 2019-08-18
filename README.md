@@ -51,11 +51,13 @@ Principal Software Benefits:
 | --- | --- |
 |[MMS383.exe](https://github.com/walwalwalides/383/tree/master/Server/MMS383)|Database Management System|
 
+------
+
 | Module | Server Side | 
 | --- | --- |
-|[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)| Employees Task Management|
-|[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Customer Order Management|
-|[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Task Live View|
+|[383.exe](https://github.com/walwalwalides/383/tree/master/Client/383)|Employees Task Management       |
+|[GO383.exe](https://github.com/walwalwalides/383/tree/master/Client/GO383)| Customer Order Management  |
+|[VT383.exe](https://github.com/walwalwalides/383/tree/master/Client/VT383)| Task Live View             |
 
 
 
