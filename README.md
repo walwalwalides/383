@@ -61,7 +61,7 @@ Principal Software Benefits:
 
 ------
 
-## To install script on Windows:
+## To Install the Software:
 
 ### Install Client 
 download link : https://github.com/walwalwalides/383/releases/download/383/S383_Client.7z
