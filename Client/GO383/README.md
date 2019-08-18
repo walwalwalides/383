@@ -1,6 +1,6 @@
 # GO383
 GO383 is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
-![](383.png)
+![](Img/GO383_1.png)
 
 
 **Authors:**  *WalWalWalides*
