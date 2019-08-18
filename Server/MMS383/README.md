@@ -7,7 +7,6 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The software offers a new way for better collaboration, communication and identification. That means granting increased productivity - that promises more and better work in less time.
 `MMS383` simplifies service planning and organization, enables optimal staffing, improves service quality, simplifies documentation, and ultimately increases the security of every transaction.
 
 
