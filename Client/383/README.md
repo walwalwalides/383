@@ -1,5 +1,5 @@
 # 383
-`383` is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
+`383` is task management and collaboration Software designed to keep your team's task lists in context with the rest of your project assets.
 
 
 ![](Img/383_2.png)
@@ -8,40 +8,17 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The software offers a new way for better collaboration, communication and identification. That means granting increased productivity - that promises more and better work in less time.
-`383` simplifies service planning and organization, enables optimal staffing, improves service quality, simplifies documentation, and ultimately increases the security of every transaction.
-
-`383` is a client-server system (Teminal Server), a standard concept for the distribution of tasks within a network.
-The system consists mainly of two parts, a server and a client component, which run on different computers.
-This client-server model describes a way to distribute tasks and services within a network.
+`383` help employees to take control of their daily work, in areas from marketing to employee onboarding and customer service to finance and human resources.
 
 
 Principal Software Benefits:
 
-      - Flexible and powerful resource cost planning and tracking.
+      - To-Do List View.
 
-      - Efficient project and resource planning, master plans.
+      - Time Tracking.
 
-      - Strong resource management and capacity planning.
+      - To-Do List View.
 
-      - A clear overview of resource availability in real time.
-
-      - Easy-to-use tools for resource needs and forecasting.
-
-      - A clear understanding of who has achieved what and how much it costs.
-
-      - Mobile order entry at the table
-
-      - Orders for tables and seats, as well as menus
-
-      - Order by radio to send directly to the kitchen Splitting bills
-
-      -  Table plan with real-time status information Create customer information and call it up at any time.
-
-      - Overview of all active orders with status information
-
-      - Automated notification of finished meals to service personnel
-    Processing.
     
     
 
