@@ -2,7 +2,7 @@
 `383` is task management and collaboration Software designed to keep your team's task lists in context with the rest of your project assets.
 
 
-![](Img/383_2.png)
+![](Img/383_1.png)
 
 
 **Authors:**  *WalWalWalides*
@@ -20,6 +20,9 @@ Principal Software Benefits:
       - To-Do List View.
 
     
+### Online View
+![](Img/383_2.png)
+
 ### To-Do List View
 ![](Img/383_4.png)
 
