@@ -13,11 +13,13 @@
 
 Principal Software Benefits:
 
-      - To-Do List View.
+     - Interactive Chat between the Employees.
+     
+     - To-Do List View.
 
-      - Time Tracking.
+     - Time Tracking.
 
-      - To-Do List View.
+     - To-Do List View.
 
     
 ### Online View
