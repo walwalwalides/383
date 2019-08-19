@@ -1,5 +1,5 @@
 # VT383
-`VT383` is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
+`VT383` helps you organize tasks, prioritize them and keep track of different tasks that are pending. 
 ![](Img/VT383_1.png)
 
 
@@ -7,10 +7,8 @@
 ------
 
 
-`VT383` is a client-server system (Teminal Server), a standard concept for the distribution of tasks within a network.
-The system consists mainly of two parts, a server and a client component, which run on different computers.
-This client-server model describes a way to distribute tasks and services within a network.
-
+`VT383` is innovative features like Time tracking,Project reporting . 
+ Your tasks's planning , testing,tracking and reporting all are done at the same place.
 
 Principal Software Benefits:
 
