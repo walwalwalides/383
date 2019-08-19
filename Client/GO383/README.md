@@ -1,5 +1,5 @@
 # GO383
-GO383 is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
+`GO383` is the Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
 
 ![](Img/GO383_1.png)
 
@@ -7,7 +7,7 @@ GO383 is the Software Solution for Restaurants with features such as Employee Ma
 **Authors:**  *WalWalWalides*
 ------
 
-GO383 enables you to produce only what is on order, prioritize sales and production orders for production line control, and shorten response time to production. 
+`GO383` enables you to Produce only what is on order, prioritize a sales and Production orders for Production line control, and shorten Response time to Production. 
 
 
 

@@ -7,7 +7,8 @@
 **Authors:**  *WalWalWalides*
 ------
 
-The software offers a new Way for better Collaboration, Communication and Identification. That means granting increased Productivity - that promises more and better Work in less Time.
+The Software offers a new Way for better Collaboration, Communication and Identification. That means granting increased Productivity - That promises more and better Work in less Time.
+
 `383` simplifies service Planning and Organization, enables optimal Staffing, improves service Quality, simplifies Documentation, and ultimately increases the Security of every Transaction.
 
 `383` is a Client-Server System (Teminal Server), a standard concept for the distribution of tasks within a Network.
@@ -63,9 +64,15 @@ Principal Software Benefits:
 ## To Install the Software:
 
 ### Install Client 
-download link : https://github.com/walwalwalides/383/releases/download/383/S383_Client.7z
+Download Link : https://github.com/walwalwalides/383/releases/download/383_Client/S383_Client.7z
 
 ### Install Server
-download link : https://github.com/walwalwalides/383/releases/download/383/S383_Server.7z
+Download Link : https://github.com/walwalwalides/383/releases/download/383_Server/S383_Server.7z
+
+------
+
+# If You Want To Donate!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y79F36A9BGLHS&source=url)
 
 
