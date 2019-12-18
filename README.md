@@ -71,6 +71,13 @@ Download Link : https://github.com/walwalwalides/383/releases/download/383_Clien
 Download Link : https://github.com/walwalwalides/383/releases/download/383_Server/S383_Server.7z
 
 ------
+### Demo
+383 - Configuration Management Tools(Dishes Part1) : https://www.youtube.com/watch?v=ps_QW2rj_50&t=22s
+383 - Configuration Management Tools(User Part2) : https://www.youtube.com/watch?v=qkZHerpZxAs
+383 - Configuration Management Tools(Customer Part3) : https://www.youtube.com/watch?v=Ue8TVrTfWgA
+383 - Configuration Management Tools(Server Part4) :https://www.youtube.com/watch?v=tMz9ns4HJyQ&t=3s
+383 - Configuration Management Tools(Client Part5) : https://www.youtube.com/watch?v=0JsfytQ5Z6U
+383 - Configuration Management Tools(LiveView Part6) :https://www.youtube.com/watch?v=B1-jcahtUxg&t=7s 
 
 # If You Want To Donate!
 
