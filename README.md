@@ -1,6 +1,8 @@
 # 383
 ![Platforms](https://img.shields.io/badge/Supported%20platforms-Win32%20and%20Win64-red.svg)
-![](383.png)[![GitHub stars](https://img.shields.io/github/stars/walwalwalides/383)](https://github.com/walwalwalides/383/stargazers)
+![](383.png)
+![GitHub](https://img.shields.io/github/license/walwalwalides/383)
+[![GitHub stars](https://img.shields.io/github/stars/walwalwalides/383)](https://github.com/walwalwalides/383/stargazers)
 
 
 `383` is a complete Software Solution for Restaurants with features such as Employee Management, Task Management, Customer Management and Digital Marketing.
